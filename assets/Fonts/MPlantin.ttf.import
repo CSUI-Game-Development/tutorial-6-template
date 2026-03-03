@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://g0e4g4332ft0"
-path="res://.godot/imported/CC Wild Words Roman.ttf-fe82fbc2f38e416d4c245c4515de4668.fontdata"
+uid="uid://dty8p7m8ts7oy"
+path="res://.godot/imported/MPlantin.ttf-f2fad57f2e2a2181875ff67e55ee26fa.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/CC Wild Words Roman.ttf"
-dest_files=["res://.godot/imported/CC Wild Words Roman.ttf-fe82fbc2f38e416d4c245c4515de4668.fontdata"]
+source_file="res://assets/Fonts/MPlantin.ttf"
+dest_files=["res://.godot/imported/MPlantin.ttf-f2fad57f2e2a2181875ff67e55ee26fa.fontdata"]
 
 [params]
 
@@ -21,8 +21,10 @@ msdf_pixel_range=8
 msdf_size=48
 allow_system_fallback=true
 force_autohinter=false
+modulate_color_glyphs=false
 hinting=1
-subpixel_positioning=1
+subpixel_positioning=4
+keep_rounding_remainders=true
 oversampling=0.0
 Fallbacks=null
 fallbacks=[]

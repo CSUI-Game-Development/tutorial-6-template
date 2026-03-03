@@ -29,7 +29,7 @@ func _physics_process(delta):
 	velocity = velocity
 
 
-func _process(delta):
+func _process(delta: float) -> void:
 	if velocity.y != 0:
 		animator.play("Jump")
 	elif velocity.x != 0:

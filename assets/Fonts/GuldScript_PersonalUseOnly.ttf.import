@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://b1d8efxaa2btg"
-path="res://.godot/imported/GuldScript_PersonalUseOnly.ttf-ff41e960804d1cfb9f7b99c7dc183baa.fontdata"
+uid="uid://dsrdb27gpgl4t"
+path="res://.godot/imported/GuldScript_PersonalUseOnly.ttf-2e2b105b801f452fb7591d64fd0dbe75.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/GuldScript_PersonalUseOnly.ttf"
-dest_files=["res://.godot/imported/GuldScript_PersonalUseOnly.ttf-ff41e960804d1cfb9f7b99c7dc183baa.fontdata"]
+source_file="res://assets/Fonts/GuldScript_PersonalUseOnly.ttf"
+dest_files=["res://.godot/imported/GuldScript_PersonalUseOnly.ttf-2e2b105b801f452fb7591d64fd0dbe75.fontdata"]
 
 [params]
 
@@ -21,8 +21,10 @@ msdf_pixel_range=8
 msdf_size=48
 allow_system_fallback=true
 force_autohinter=false
+modulate_color_glyphs=false
 hinting=1
-subpixel_positioning=1
+subpixel_positioning=4
+keep_rounding_remainders=true
 oversampling=0.0
 Fallbacks=null
 fallbacks=[]
